@@ -1,9 +1,16 @@
 Red Teaming Tips 
--
+  Have blue hidden the ways including winkey+R? Try shift and right click desktop and open command prompt
+  RCE on a web application for less mature client? nslookup -q=srv _ldap._tcp if its domain joined Invoke-Kerberoast
+  https://twitter.com/malmoeb/status/1628272928855826433
 Reconnaissance
--
+  https://github.com/LukaSikic/subzy
+  https://github.com/six2dez/reconftw
+  https://github.com/smicallef/spiderfoot
+  https://github.com/cvandeplas/pystemon
+  https://twitter.com/nullenc0de/status/1628576277123702789
 Resource Development
--
+  http://undocumented.ntinternals.net/
+  https://github.com/S3cur3Th1sSh1t/OffensiveVBA
 Initial Access
 -
 Execution
@@ -23,12 +30,7 @@ Lateral Movement
 Collection
 -
 Command and Control
-  https://www.thec2matrix.com/
-    Empire
-    Koadic
-    Mythic
-    PoshC2
-    Sliver
+-
 Exfiltration
 -
 Impact
